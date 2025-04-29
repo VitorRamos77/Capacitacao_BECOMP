@@ -101,7 +101,7 @@ div.inicial{
 div#bulbassauro{
     color: #4e974e00;
     background-color: #4e974ea4;
-    background-image: url(imagens/Bulbasaur.webp);
+    background-image: url(imagens/Bulbasaur.png);
     background-size: 100% 100%;
     background-attachment: inherit;
 }
@@ -121,7 +121,7 @@ div#charmander{
     padding: 4px;
     color: #4e974e00;
     background-color: #ff9e0d93;
-    background-image: url(imagens/charmander.webp);
+    background-image: url(imagens/charmander.png);
     background-size: 100% 100%;
     background-attachment: inherit;
 }
@@ -140,7 +140,7 @@ div#charmander:hover{
 div#squirtle{
     color: #4e974e00;
     background-color: #9ad2d9ad;
-    background-image: url(imagens/squirtle.webp);
+    background-image: url(imagens/squirtle.png);
     background-size: 100% 100%;
     background-attachment: inherit;
 }
